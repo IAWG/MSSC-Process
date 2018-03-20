@@ -1,4 +1,4 @@
-# MSSC-Process
+# MSSC Process Definition
 
 The Modular Software Safety Case (MSSC) process takes advantage of the modularity in software designs when providing assurance of a safe system composed from these modules.
 
